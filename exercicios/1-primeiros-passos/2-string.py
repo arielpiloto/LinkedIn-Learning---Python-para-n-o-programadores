@@ -1,5 +1,14 @@
 resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por isso está estudando 'python'."
 
+# Slice = Retorna um trecho da String
+print(resumo[1])
+print(resumo.upper())
+print(resumo.lower())
+print(resumo.title())
+print(resumo.capitalize())
+idade = 33
+print(f"Paloma é uma mulher de {idade} anos que deseja mudar de profissão, por isso está estudando 'python'.")
+
 # Imprima na tela a variável "resumo"
 
 
